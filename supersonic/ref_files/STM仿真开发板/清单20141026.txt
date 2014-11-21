@@ -1,0 +1,23 @@
+1. 仿真下载器
+http://detail.tmall.com/item.htm?spm=a230r.1.0.0.SbT0k2&id=36622058724&ad_id=&am_id=&cm_id=140105335569ed55e27b&pm_id=&abbucket=11
+
+2.stm32f103ZE开发板
+http://detail.tmall.com/item.htm?spm=a220o.1000855.0.0.hnSnHT&id=39615210064
+
+3. 转接板
+http://detail.tmall.com/item.htm?spm=a220o.1000855.w4004-5508485258.24.inLCe5&id=36622166180
+
+上面这三款东西是同一家店的，可以跟对方聊聊看能不能打折。
+
+4. STM32F100开发板
+http://detail.tmall.com/item.htm?spm=a230r.1.0.0.1nMSCZ&id=39807728456&ad_id=&am_id=&cm_id=140105335569ed55e27b&pm_id=&abbucket=11
+
+5. 3.5毫米四节音频插座   至少买50个吧，可能会有最低起订个数
+http://item.taobao.com/item.htm?spm=a230r.1.0.0.8BocyS&id=14471455139&ns=1&abbucket=11&_u=qvil8jif0a4#detail
+
+6. 3.5毫米四节音频插头 数量同上
+http://item.taobao.com/item.htm?spm=a230r.1.0.0.4E150I&id=17326551164&ns=1&abbucket=11&_u=qvil8jie228#detail
+
+注：5和6买的时候先跟店主用旺旺联系上
+
+

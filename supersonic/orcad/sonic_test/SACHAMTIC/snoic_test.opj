@@ -1,0 +1,225 @@
+(ExpressProject "snoic_test"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "E:\project_here\supersonic\LIB\LIBRARY1.OLB"
+        (Type "Schematic Library"))
+      (File "e:\personalwork\project_here\supersonic\lib\library1.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\snoic_test.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Run_Physical_Rules "FALSE")
+    (DRC_Report_File
+       "E:\PERSONALWORK\PROJECT_HERE\SUPERSONIC\ORCAD\SONIC_TEST\SACHAMTIC\SNOIC_TEST.DRC")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Check_Single_Node_Nets "FALSE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "FALSE")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "1")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory"
+       "E:\PROJECT_HERE\SUPERSONIC\ORCAD\SONIC_TEST\PCB\NETLIST")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" "allegro\SNOIC_TEST.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0"))
+  (Folder "Outputs"
+    (File ".\snoic_test.drc"
+      (Type "Report"))
+    (File "..\pcb\netlist\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File "..\pcb\netlist\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File "..\pcb\netlist\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\snoic_test.dsn")
+      (Path "Design Resources" ".\snoic_test.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Outputs")
+      (Select "Design Resources" ".\snoic_test.dsn" "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 431"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 50 1038 50 503")
+        (Scroll "-466 213")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "E:\PERSONALWORK\PROJECT_HERE\SUPERSONIC\ORCAD\SONIC_TEST\SACHAMTIC\SNOIC_TEST.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (PartMRUSelector
+    (FDG6342L
+      (FullPartName "FDG6342L.Normal")
+      (LibraryName "E:\PERSONALWORK\PROJECT_HERE\SUPERSONIC\LIB\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (CD4066
+      (FullPartName "CD4066.Normal")
+      (LibraryName "E:\PROJECT_HERE\SUPERSONIC\LIB\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (MIC
+      (FullPartName "MIC.Normal")
+      (LibraryName "E:\PROJECT_HERE\SUPERSONIC\LIB\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    ("CONN FLEX 28"
+      (FullPartName "CONN FLEX 28.Normal")
+      (LibraryName
+         "D:\PROGRAM_FILES\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CONN PCB 30x2"
+      (FullPartName "CONN PCB 30x2.Normal")
+      (LibraryName
+         "D:\PROGRAM_FILES\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON30
+      (FullPartName "CON30.Normal")
+      (LibraryName
+         "D:\PROGRAM_FILES\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("PNP BCE"
+      (FullPartName "PNP BCE.Normal")
+      (LibraryName
+         "D:\PROGRAM_FILES\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    (SGM324YS14
+      (FullPartName "SGM324YS14.Normal")
+      (LibraryName "E:\PROJECT_HERE\SUPERSONIC\LIB\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (SGT27S10/TO
+      (FullPartName "SGT27S10/TO.Normal")
+      (LibraryName
+         "D:\PROGRAM_FILES\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (SG531
+      (FullPartName "SG531.Normal")
+      (LibraryName
+         "D:\PROGRAM_FILES\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (SG3523
+      (FullPartName "SG3523.Normal")
+      (LibraryName
+         "D:\PROGRAM_FILES\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\MISCPOWER.OLB")
+      (DeviceIndex "0"))
+    (SG117/TO
+      (FullPartName "SG117/TO.Normal")
+      (LibraryName
+         "D:\PROGRAM_FILES\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\REGULATOR.OLB")
+      (DeviceIndex "0"))
+    (MICROPHONE
+      (FullPartName "MICROPHONE.Normal")
+      (LibraryName
+         "D:\PROGRAM_FILES\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\ELECTROMECHANICAL.OLB")
+      (DeviceIndex "0"))
+    (BUZZER
+      (FullPartName "BUZZER.Normal")
+      (LibraryName
+         "D:\PROGRAM_FILES\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\ELECTROMECHANICAL.OLB")
+      (DeviceIndex "0"))
+    (SOUNDER
+      (FullPartName "SOUNDER.Normal")
+      (LibraryName
+         "D:\PROGRAM_FILES\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\ELECTROMECHANICAL.OLB")
+      (DeviceIndex "0"))
+    (MIC1426
+      (FullPartName "MIC1426.Normal")
+      (LibraryName
+         "D:\PROGRAM_FILES\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\MISC2.OLB")
+      (DeviceIndex "0"))
+    (MAX202E/SO
+      (FullPartName "MAX202E/SO.Normal")
+      (LibraryName
+         "D:\PROGRAM_FILES\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\LINEDRIVERRECEIVER.OLB")
+      (DeviceIndex "0"))
+    (MAX202E
+      (FullPartName "MAX202E.Normal")
+      (LibraryName
+         "D:\PROGRAM_FILES\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\LINEDRIVERRECEIVER.OLB")
+      (DeviceIndex "0"))
+    (MAX201
+      (FullPartName "MAX201.Normal")
+      (LibraryName
+         "D:\PROGRAM_FILES\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\LINEDRIVERRECEIVER.OLB")
+      (DeviceIndex "0"))
+    (MAX2003
+      (FullPartName "MAX2003.Normal")
+      (LibraryName
+         "D:\PROGRAM_FILES\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\MISC3.OLB")
+      (DeviceIndex "0"))
+    (MAX038
+      (FullPartName "MAX038.Normal")
+      (LibraryName
+         "D:\PROGRAM_FILES\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\MISCLINEAR.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "D:\Program_Files\Cadence\SPB_16.6\tools\capture\library")
+  (MPSSessionName "Administrator")
+  (ISPCBBASICLICENSE "false"))

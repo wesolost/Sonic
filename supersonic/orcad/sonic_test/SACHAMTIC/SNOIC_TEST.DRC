@@ -1,0 +1,88 @@
+Date and Time : 11/01/14 22:14:21
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections PC10 
+                    SCHEMATIC1, PAGE1  (7.30, 1.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA15 
+                    SCHEMATIC1, PAGE1  (7.30, 1.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC15 
+                    SCHEMATIC1, PAGE1  (4.60, 1.00) 
+WARNING(ORCAP-1600): Net has fewer than two connections BOOT0 
+                    SCHEMATIC1, PAGE1  (7.30, 0.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC3 
+                    SCHEMATIC1, PAGE1  (4.60, 1.70) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD1 
+                    SCHEMATIC1, PAGE1  (4.60, 1.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA6 
+                    SCHEMATIC1, PAGE1  (4.60, 2.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections VBAT 
+                    SCHEMATIC1, PAGE1  (4.60, 0.70) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC1 
+                    SCHEMATIC1, PAGE1  (4.60, 1.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA10 
+                    SCHEMATIC1, PAGE1  (7.70, 2.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections NRST 
+                    SCHEMATIC1, PAGE1  (4.60, 1.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA7 
+                    SCHEMATIC1, PAGE1  (4.60, 2.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD2 
+                    SCHEMATIC1, PAGE1  (7.30, 1.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA2 
+                    SCHEMATIC1, PAGE1  (4.60, 2.00) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA14 
+                    SCHEMATIC1, PAGE1  (7.30, 2.00) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC4 
+                    SCHEMATIC1, PAGE1  (4.60, 2.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA5 
+                    SCHEMATIC1, PAGE1  (4.60, 2.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB5 
+                    SCHEMATIC1, PAGE1  (7.30, 1.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC0 
+                    SCHEMATIC1, PAGE1  (4.60, 1.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB6 
+                    SCHEMATIC1, PAGE1  (7.30, 1.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC11 
+                    SCHEMATIC1, PAGE1  (7.30, 1.70) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC9 
+                    SCHEMATIC1, PAGE1  (7.70, 2.70) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB4 
+                    SCHEMATIC1, PAGE1  (7.30, 1.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC2 
+                    SCHEMATIC1, PAGE1  (4.60, 1.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB8 
+                    SCHEMATIC1, PAGE1  (7.30, 0.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC5 
+                    SCHEMATIC1, PAGE1  (4.60, 2.70) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC14 
+                    SCHEMATIC1, PAGE1  (4.60, 0.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD0 
+                    SCHEMATIC1, PAGE1  (4.60, 1.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB2 
+                    SCHEMATIC1, PAGE1  (4.60, 3.00) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA3 
+                    SCHEMATIC1, PAGE1  (4.60, 2.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB7 
+                    SCHEMATIC1, PAGE1  (7.30, 1.00) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA13 
+                    SCHEMATIC1, PAGE1  (7.30, 2.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC12 
+                    SCHEMATIC1, PAGE1  (7.30, 1.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC8 
+                    SCHEMATIC1, PAGE1  (7.70, 2.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC13 
+                    SCHEMATIC1, PAGE1  (4.60, 0.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB3 
+                    SCHEMATIC1, PAGE1  (7.30, 1.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA12 
+                    SCHEMATIC1, PAGE1  (7.70, 2.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA11 
+                    SCHEMATIC1, PAGE1  (7.70, 2.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB9 
+                    SCHEMATIC1, PAGE1  (7.30, 0.70) 
+
+Checking For Unconnected Bus Nets
